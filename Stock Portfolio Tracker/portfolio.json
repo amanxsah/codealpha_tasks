@@ -1,0 +1,18 @@
+{
+    "AMA": {
+        "shares": 2,
+        "buy_price": 100.0
+    },
+    "POW": {
+        "shares": 1,
+        "buy_price": 1000.0
+    },
+    "KOT": {
+        "shares": 4,
+        "buy_price": 2000.0
+    },
+    "/USR/LOCAL/BIN/PYTHON3 \"/USERS/AMAN/DOCUMENTS/TEMPORARY FILE/PYTHON/CHATBOT.PY\"": {
+        "shares": 2,
+        "buy_price": 5.0
+    }
+}
